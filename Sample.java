@@ -5,6 +5,7 @@ public class Sample{
     Scanner sc = new Scanner(System.in);
     int a = sc.nextInt();
     System.out.println("Your name is : " +a);
+    System.out.println("Yasir + Hamia = Yamia");
     
   }
 }
