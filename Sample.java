@@ -4,7 +4,7 @@ public class Sample{
     System.out.println("Welcome -- ");
     Scanner sc = new Scanner(System.in);
     int a = sc.nextInt();
-    System.out.println("You have entered "+a);
+    System.out.println("Your name is : " +a);
     
   }
 }
